@@ -45,7 +45,7 @@ Sử dụng **SVM** để phân loại khách hàng có nguy cơ nợ xấu vớ
 - Sử dụng thêm **AI/ML** để phân tích hành vi khách hàng và dự đoán sớm rủi ro tín dụng.
 - Mở rộng hoạt động sang **TP.HCM** và các tỉnh để giảm phụ thuộc vào Hà Nội.
 
-## **6. Công nghệ sử dụng**
+## **6. Công cụ sử dụng**
 - **Ngôn ngữ**: Python
 - **Thư viện chính**: `pandas`, `scikit-learn`, `seaborn`, `matplotlib`, `XGBoost`
 - **Môi trường**: Google Colab
