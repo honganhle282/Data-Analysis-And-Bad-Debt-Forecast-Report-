@@ -19,6 +19,8 @@ Sử dụng **SVM** để phân loại khách hàng có nguy cơ nợ xấu vớ
 - **Recall (nợ xấu)**: `97%` (mô hình nhận diện tốt các trường hợp nợ xấu).
 - **Precision (nợ xấu)**: `58%` (cần cải thiện để giảm dự đoán sai dương).
 - **AUC**: `0.99` (khả năng phân biệt nợ xấu rất tốt).
+
+  
   ![image](https://github.com/user-attachments/assets/f2a07232-2680-4a8d-9d98-d2c3e734a603)
 
 
