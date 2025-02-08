@@ -8,6 +8,7 @@ Dự án phân tích dữ liệu tài chính của một công ty cho vay tiêu 
 - **Phân khúc**: Khoản vay trung bình ~12.84 triệu VND, tập trung vào khách hàng cá nhân.
 - **Thị trường**: 85% khách hàng tại Hà Nội, các khu vực khác chưa khai thác mạnh.
 - **Số khách hàng**: 1.861 khách hàng với 2.374 khoản vay, cho thấy xu hướng vay nhiều lần.
+![image](https://github.com/user-attachments/assets/c893493c-2e1e-4bec-a3d6-d8b24eb37a0a)
 
 ## **3. Mô hình dự báo nợ xấu**
 Sử dụng **SVM** để phân loại khách hàng có nguy cơ nợ xấu với các kết quả chính:
