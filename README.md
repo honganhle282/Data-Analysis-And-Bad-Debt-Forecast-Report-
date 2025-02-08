@@ -9,6 +9,8 @@ Dự án phân tích dữ liệu tài chính của một công ty cho vay tiêu 
 - **Thị trường**: 85% khách hàng tại Hà Nội, các khu vực khác chưa khai thác mạnh.
 - **Số khách hàng**: 1.861 khách hàng với 2.374 khoản vay, cho thấy xu hướng vay nhiều lần.
 ![image](https://github.com/user-attachments/assets/c893493c-2e1e-4bec-a3d6-d8b24eb37a0a)
+![image](https://github.com/user-attachments/assets/f8d74014-fc03-4168-bd30-f55c2fe147e0)
+
 
 ## **3. Mô hình dự báo nợ xấu**
 Sử dụng **SVM** để phân loại khách hàng có nguy cơ nợ xấu với các kết quả chính:
@@ -17,6 +19,8 @@ Sử dụng **SVM** để phân loại khách hàng có nguy cơ nợ xấu vớ
 - **Recall (nợ xấu)**: `97%` (mô hình nhận diện tốt các trường hợp nợ xấu).
 - **Precision (nợ xấu)**: `58%` (cần cải thiện để giảm dự đoán sai dương).
 - **AUC**: `0.99` (khả năng phân biệt nợ xấu rất tốt).
+  ![image](https://github.com/user-attachments/assets/f2a07232-2680-4a8d-9d98-d2c3e734a603)
+
 
 ### **Các đặc trưng quan trọng**
 - `CreditInfo` (thông tin tín dụng)
